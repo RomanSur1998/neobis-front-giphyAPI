@@ -35,10 +35,12 @@ header {
 }
 main {
   padding-top: 100px;
-  width: 90vw;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-main ul {
+ul {
   width: 1400px;
   display: flex;
   flex-wrap: wrap;
