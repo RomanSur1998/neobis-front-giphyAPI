@@ -10,7 +10,7 @@ async function getGiphy(text) {
   try {
     let response = await fetch(
       `https://api.giphy.com/v1/gifs/search?q=${
-        text ? text : "sad"
+        text ? text : "tom"
       }&api_key=YOxgnLIErg6GBhZD7dCPoEoy4XJHvFoE&limit=20`
     );
     let data = await response.json();
