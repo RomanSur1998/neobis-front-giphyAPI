@@ -1,6 +1,6 @@
 Это проект является поисковиком гиф анимации .
 Главная и оснвная страница :
-![Alt text](./assets/image.png)
+![Alt text](image-1.png)
 Поле поиска :
 ![Alt text](image.png)
 
